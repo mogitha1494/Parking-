@@ -42,4 +42,4 @@ A Python-based application for managing parking slot bookings with a Tkinter GUI
 - Expired bookings are automatically released and slots become available again
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
